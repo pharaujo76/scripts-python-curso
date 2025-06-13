@@ -1,2 +1,2 @@
-nome = input('Qual o seu nome? ')
+nome = input('Qual o seu nome?')
 print('Olá, ' + nome + '!' + ' seja bem-vindo a empresa!')

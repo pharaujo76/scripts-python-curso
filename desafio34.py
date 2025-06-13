@@ -1,4 +1,4 @@
-salario = float(input('Digite salário do funcionário: R$ '));
+salario = float(input('Digite salário do funcionário: R$  '));
 
 if (salario > 1250):
     aumento = salario * 1.1;

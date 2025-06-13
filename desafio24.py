@@ -1,4 +1,4 @@
-cidade = str(input('Digite o nome da cidade: '));
+cidade = str(input('Digite o nome da cidade:  '));
 
 if cidade.startswith('Santo'):
     print(f'A cidade {cidade} começa com Santo!');

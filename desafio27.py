@@ -1,4 +1,4 @@
-nome = str(input('Qual seu nome completo? ')).strip();
+nome = str(input('Qual seu nome completo?  ')).strip();
 
 separador = nome.split(); ## Separando em palavras
 primeiro = separador [0]; ## Primeira Palavra

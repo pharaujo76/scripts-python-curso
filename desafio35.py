@@ -1,4 +1,4 @@
-a = int(input('Qual o primeiro valor do triângulo? '));
+a = int(input('Qual o primeiro valor do triângulo?  '));
 b = int(input('Qual o segundo valor do triângulo? '));
 c = int(input('Qual o terceiro valor do triângulo? '));
 

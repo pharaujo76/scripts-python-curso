@@ -11,4 +11,4 @@ num8 = num * 8;
 num9 = num * 9;
 num10 = num * 10;
 
-print(f'a tabuada do número digitado ({num}) é a seguinte: \n {num1} \n {num2} \n {num3} \n {num4} \n {num5} \n {num6} \n {num7} \n {num8} \n {num9} \n {num10}');
+print(f'A tabuada do número digitado ({num}) é a seguinte: \n {num1} \n {num2} \n {num3} \n {num4} \n {num5} \n {num6} \n {num7} \n {num8} \n {num9} \n {num10}');

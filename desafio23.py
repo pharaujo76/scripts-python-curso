@@ -1,4 +1,4 @@
-numero = int(input('Digite um número: '));
+numero = int(input('Digite um número:  '));
 
 unidade = numero % 10;
 dezena = (numero // 10) % 10;

@@ -1,4 +1,4 @@
-velocidade = float(input('Qual a velocidade em que o carro estava? '));
+velocidade = float(input('Qual a velocidade em que o carro estava?  '));
 
 if (velocidade > 80):
     multa = (velocidade - 80) * 7

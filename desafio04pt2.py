@@ -7,4 +7,4 @@ print(f'{x} é decimal', x.isdecimal(), '!');
 print(f'{x} está em maiusculo?', x.isupper(), '!');
 print(f'{x} é um alfanumerico?', x.isalnum(),'!');
 
-print(3*(5+4)**2)
+print(3*(5+4)**2);

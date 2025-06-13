@@ -1,4 +1,4 @@
-num = int(input('Qual o número? '));
+num = int(input('Qual o seu número? '));
 numant = num - 1;
 numsuc = num + 2;
 

@@ -1,6 +1,6 @@
-nome = str(input('Qual é o seu nome? '));
+nome = str(input('Qual é o seu nome?? '));
 
-print(f'Prazer em te conhecer, {nome}', '!');
+print(f'Prazer em te conhecer, {nome}', 'Belo nome!');
 
 n1 = int(input('Qual o primeiro valor? '));
 n2 = int(input('Qual o segundo valor? '));

@@ -1,4 +1,4 @@
-valor = float(input('Digite o valor: '));
+valor = float(input(' Digite o valor: '));
 metros = valor * 100;
 centimetros = valor * 1000;
 

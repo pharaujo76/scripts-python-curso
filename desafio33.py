@@ -1,4 +1,4 @@
-numero = float(input('Digite um número: '));
+numero = float(input('Digite um número:  '));
 numero2 = float(input('Digite outro número '));
 numero3 = float(input('Digite mais um número '));
 maior = numero;

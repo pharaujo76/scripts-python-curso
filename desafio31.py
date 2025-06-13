@@ -1,5 +1,5 @@
 cidade = str(input('De qual cidade você quer partir? '));
-cidade2 = str(input('Em qual cidade você quer ir?'));
+cidade2 = str(input('Em qual cidade você quer ir? '));
 distancia = float(input('Qual a distância de uma cidade para outra? '));
 
 if (distancia <= 200):

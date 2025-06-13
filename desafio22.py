@@ -1,4 +1,4 @@
-nome = str(input('Qual seu nome completo? ')).strip(); ## Tirando os espaços inuteis
+nome = str(input('Qual seu nome completo?  ')).strip(); ## Tirando os espaços inuteis
 
 nome_maiusculas = nome.upper(); 
 nome_minusculas = nome.lower();
